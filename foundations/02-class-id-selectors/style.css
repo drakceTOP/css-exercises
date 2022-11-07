@@ -1,0 +1,15 @@
+.small {
+font-family: "Verdana", "DejaVu Sans", "sans-serif";
+background-color: rgb(255,192,203);
+}
+
+#second-element {
+color: #4169E1;
+font-size: 36px;
+}
+
+#third-element {
+color: #ADFF2F;
+font-size: 24px;
+fonr-weight: bold;
+}
